@@ -1,1 +1,1 @@
-<h2>App scrio Assessemnt</h2>
+<h2>App scrip Assessemnt</h2>
